@@ -1,6 +1,6 @@
+"use client"
 import { Spotlight } from "@/components/ui/Spotlight";
 import { BackgroundGradientAnimation } from "@/components/ui/background-gradient-animation";
-import { DiscordClient } from "@/discord/client";
 
 export default function Home() {
   return (
