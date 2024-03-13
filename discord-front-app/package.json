@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@sapphire/framework": "^5.0.7",
+    "@sapphire/plugin-api": "^6.1.1",
     "clsx": "^2.1.0",
     "discord.js": "14.x",
     "framer-motion": "^11.0.12",
